@@ -1,0 +1,13 @@
+{
+  "_comment": "This JSON file containing the ml-metrics",
+  "Name": "Annam.ai",
+  "Kaggle Username": "yadvendragarg",
+  "Team Name": "Quantum Chain",
+  "f1 scores": {
+    "_comment": "Here are the class wise f1 scores",
+    "alluvial soil": 1.00,
+    "red soil": 1.00,
+    "black soil": 1.00,
+    "clay soil": 1.00
+  }
+}
