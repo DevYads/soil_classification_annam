@@ -56,7 +56,7 @@ pip install numpy pandas matplotlib seaborn pillow torch torchvision timm scikit
   - `test_ids.csv`
  
 ---
-
+## Challenge 1
 ## ✨ Features
 
 - **Models**: Implements `EfficientNet-B3` and `ResNet-50` for robust classification.
@@ -87,3 +87,7 @@ The project achieves impressive performance across individual models and the ens
 - **Accuracy**: `99.59%`
 
 📊 Visualizations such as **confusion matrices** and **misclassification rates** are saved in `/kaggle/working/` for detailed analysis.
+
+
+---
+## Challenge 2
