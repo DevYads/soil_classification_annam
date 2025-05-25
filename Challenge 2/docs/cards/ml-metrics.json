@@ -1,0 +1,9 @@
+{
+  "_comment": "This JSON file containing the ml-metrics",
+  "Name": "Yadvendra Garg",
+  "Kaggle Username": "yadvendragarg",
+  "Team Name": "Quantum Chain",
+  "f1 scores": {
+    "label": 0.92
+  }
+}
